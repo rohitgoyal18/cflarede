@@ -7,7 +7,4 @@ If visitor is from outside Singapore, they will be redirected to https://1.1.1.1
 
 #### Wrangler
 
-Complete Wrangler documentation at [wrangler](https://developers.cloudflare.com/workers/wrangler/)
-
-
-
+Wrangler worker documentation for [reference](https://developers.cloudflare.com/workers/wrangler/)
