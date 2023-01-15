@@ -1,0 +1,15 @@
+name = "cflare"
+type = "webpack"
+
+account_id = "017f86114160661cffbba74aa98d2358"
+compatibility_date = "2023-01-14"
+
+[env.dev]
+workers_dev = true
+
+
+[env.production]
+worker_dev = false
+route = "www.cflare.de/geo"
+# Deprecated
+# zone_id = "63f6134cdf183df097d7b6d09f4d2bc3"  

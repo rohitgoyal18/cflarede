@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "{{ cflarede }}",
+  "version": "1.0.0",
+  "description": "Sample worker to re-direct traffic originating from outside SG, to 1.1.1.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "{{ rohitgoyal18 }}",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
